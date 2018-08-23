@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_view_start_size">20dp</dimen>
+    <dimen name="edit_text_width">250dp</dimen>
+    <dimen name="edit_text_start">60dp</dimen>
+</resources>
